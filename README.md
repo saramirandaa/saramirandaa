@@ -20,9 +20,6 @@
       <a href="https://www.linkedin.com/in/sara-miranda-56560a203/" target="blank"><img align="center"
          src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
          alt="azzar" height="30"/></a>
-      <a href="mirandamsara@gmail.com" target="blank"><img align="center"
-         src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
-         alt="azzar" height="30"/></a>
     </p>
   <p align="center">
       <a href="https://instagram.com/saramirandam" target="blank"><img align="center"
