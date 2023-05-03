@@ -2,7 +2,7 @@
 <h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">...</h1>
 
   <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%5c30ab&size=25&center=true&vCenter=true&width=600&height=100&lines=I'm+Sara+Miranda;Computer+Science+Student"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%872bc4&size=25&center=true&vCenter=true&width=600&height=100&lines=I'm+Sara+Miranda;Computer+Science+Student"></a>
 </p>
   
 <h4 align="center">Computer Science Major at <br>Universidad Panamericana CDMX</h4>
