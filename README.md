@@ -3,7 +3,7 @@
 <h1 align="center">Hello <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif"></h1>
 <picture align = "left"><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture>
   <p align="center">
-  <a href="https://www.instagram.com/saramirandam/"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%ffffff&size=25&center=true&vCenter=true&width=600&height=100&lines=I'm+Sara+Miranda;Computer+Science+Student"></a>
+  <a href="https://www.instagram.com/saramirandam/"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=green&size=25&center=true&vCenter=true&width=600&height=100&lines=I'm+Sara+Miranda;Computer+Science+Student"></a>
 </p>
   
 <h4 align="center">Computer Science Major at <br>Universidad Panamericana CDMX</h4>
