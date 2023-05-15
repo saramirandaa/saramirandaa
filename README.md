@@ -1,5 +1,5 @@
-<div align="center">
 
+<div align="center">
 <h1 align="center">Hello <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif"></h1>
 <picture align = "left"><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture>
   <p align="center">
@@ -40,13 +40,6 @@
 <div align="center">
     <img src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="270" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
     </div>
-
-
-
-  
-
-  
-
 
 <!--
 **saramirandaa/saramirandaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
