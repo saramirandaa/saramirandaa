@@ -37,10 +37,11 @@
   </samp>
 </div>
 </details>
+<!--
 <div align="center">
     <img src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="270" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
     </div>
-
+-->
 <!--
 **saramirandaa/saramirandaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
