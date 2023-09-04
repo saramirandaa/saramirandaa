@@ -1,8 +1,7 @@
 
 <div align="center">
-<h1 style="font-family:verdana; color:blue">Hello <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif"></h1> 
+<h1 style="font-family:verdana; color:blue">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif"></h1> 
 <picture align = "left"><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture>
-  <h1 align="center">Hi 👋, I'm Sara Miranda</h1>
 <h3 align="center">Data Science and Cybersecurity Engineering</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saramirandaa&label=Profile%20views&color=0e75b6&style=flat" alt="saramirandaa" /> </p>
